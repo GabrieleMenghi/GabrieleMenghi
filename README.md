@@ -1,4 +1,7 @@
 ### 👋 Hi there!
+<div align="center">
+<img src="[https://rishavanand.github.io/static/images/greetings.gif](https://github.com/GabrieleMenghi/GabrieleMenghi/blob/main/img/FotoGitHub.png)" align="center" style="width: 50%" />
+</div>  
 I'm currently attending the second year the Unibo University at Cesena
 
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrieleMenghi&theme=dracula&hide_border=true&layout=compact"/></div>  
