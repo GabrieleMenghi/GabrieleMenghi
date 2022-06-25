@@ -3,7 +3,8 @@ I'm currently attending the second year the Unibo University at Cesena
 
 Here are my social profiles:
 ![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)
-[github](https://github.com/GabrieleMenghi)
+![github][logo]
+[logo](https://github.com/GabrieleMenghi)
 <!--
 **GabrieleMenghi/GabrieleMenghi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
