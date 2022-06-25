@@ -1,5 +1,5 @@
 <div align="center">
-### 👋 Hi there!
+  <h1>👋 Hi there! </h1>
 
 <img src="https://github.com/GabrieleMenghi/GabrieleMenghi/blob/main/img/FotoGitHub.png" align="center" style="width: 50%" />
 
