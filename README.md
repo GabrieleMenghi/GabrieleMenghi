@@ -1,7 +1,7 @@
 ### Hi there 👋
 I'm currently attending the second year the Unibo University at Cesena
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrieleMenghi&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrieleMenghi&theme=dracula)
 
 Here are my social profiles:
 
