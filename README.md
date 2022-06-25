@@ -1,6 +1,8 @@
 ### Hi there 👋
 I'm currently attending the second year the Unibo University at Cesena
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrieleMenghi)](https://github.com/GabrieleMenghi)
+
 Here are my social profiles:
 
 [![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/GabrieleMenghi)
