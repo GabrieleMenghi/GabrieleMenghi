@@ -1,7 +1,7 @@
 <div align="center">
 <img src="https://github.com/GabrieleMenghi/GabrieleMenghi/blob/main/img/intro.gif" width="250" height="250">
 
-<h1>Hi there 👋, I'm Gabriele Menghi </hi>
+<h1>Hi there <img src="https://github.com/GabrieleMenghi/GabrieleMenghi/blob/main/img/HandGreeting.gif" width="40" height="40"/>, I'm Gabriele Menghi </hi>
 </div>
 
 - 🎓 I'm currently attending the second year the Unibo University at Cesena
