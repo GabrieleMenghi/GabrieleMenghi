@@ -9,7 +9,7 @@
 - 🤔 I’m looking for help with **Cyber Security**
 - 📫 How to reach me: **gabry.menghi01@gmail.com**
 
-<div align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrieleMenghi&theme=dracula&hide_border=true&layout=compact"/></div>
+<div align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrieleMenghi&theme=tokyonight&hide_border=true&layout=compact"/></div>  
 
 
 # 💻 Tech Stack:
@@ -20,6 +20,3 @@
 
 # 🐍 Snake eating my contribution graph
 ![snake gif](https://github.com/GabrieleMenghi/GabrieleMenghi/blob/output/github-contribution-grid-snake.svg)
-
-
-
