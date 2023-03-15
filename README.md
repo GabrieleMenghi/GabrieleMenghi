@@ -5,7 +5,6 @@
 </div>
 
 - 🎓 I'm currently attending the third year of the Unibo University at Cesena
-- 🌱 I’m currently learning **Networks**
 - 🤔 I’m looking for help with **Cyber Security**
 - 📫 How to reach me: **gabry.menghi01@gmail.com**
 
