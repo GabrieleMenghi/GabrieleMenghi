@@ -4,7 +4,7 @@
 <h1>Hi there <img src="https://github.com/GabrieleMenghi/GabrieleMenghi/blob/main/img/HandGreeting.gif" width="40" height="40"/>, I'm Gabriele Menghi </hi>
 </div>
 
-- 🎓 I'm currently attending the third year of the Unibo University at Cesena
+- 🎓 I have a bachelor's degree in computer engineering at the Unibo University in Cesena
 - 🤔 I’m looking for help with **Cyber Security**
 - 📫 How to reach me: **gabry.menghi01@gmail.com**
 
